@@ -397,7 +397,7 @@ fi
 
 mkdir -m 777 /root/.web/
 echo "Firenet Developer Property<br>
-Contact(Whatsapp): +639703855290... " >> /root/.web/index.php
+Contact(Whatsapp): +8801638531397... " >> /root/.web/index.php
 }
 }
 
@@ -653,7 +653,7 @@ echo '{
   "up_mbps": 100,
   "down_mbps": 100,
   "disable_udp": false,
-  "obfs": "digitel",
+  "obfs": "arbuild",
   "auth": {
     "mode": "external",
     "config": {
