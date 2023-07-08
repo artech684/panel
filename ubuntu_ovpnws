@@ -484,7 +484,7 @@ echo '{
   "up_mbps": 100,
   "down_mbps": 100,
   "disable_udp": false,
-  "obfs": "digitel",
+  "obfs": "arbuild",
   "auth": {
     "mode": "external",
     "config": {
