@@ -383,7 +383,7 @@ echo '{
   "up_mbps": 100,
   "down_mbps": 100,
   "disable_udp": false,
-  "obfs": "panel",
+  "obfs": "arbuild",
   "auth": {
     "mode": "external",
     "config": {
